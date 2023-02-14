@@ -1,4 +1,5 @@
-### Hi there 👋
+### John Porter
+I work on Ecological Information Management at the Virginia Coast Reserve Long-Term Ecological Research Site.  I mostly work on small pieces of code that knit together existing resources. 
 
 <!--
 **jhp7e/jhp7e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
